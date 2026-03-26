@@ -4,54 +4,60 @@
     "playerCountry": "Bangladesh",
     "playerType": "All-rounder",
     "rating": 90,
+    "price": 550,
     "batStyle": "Left-hand bat",
     "blowingStyle": "Left-arm orthodox",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319900/319957.png"
+    "image": "https://i.ibb.co.com/QjNXv6yc/Shakib.jpg"
   },
   {
     "playerName": "Virat Kohli",
     "playerCountry": "India",
     "playerType": "Batsman",
     "rating": 95,
+    "price": 450,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Right-arm medium",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316486.png"
+    "image": "https://i.ibb.co.com/m564vpNG/Virat-Kohli-1.jpg"
   },
   {
     "playerName": "Babar Azam",
     "playerCountry": "Pakistan",
     "playerType": "Batsman",
     "rating": 93,
+    "price": 750,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Right-arm offbreak",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319900/319950.png"
+    "image": "https://i.ibb.co.com/tPzkVKB6/images-3.jpg"
   },
   {
     "playerName": "Joe Root",
     "playerCountry": "England",
     "playerType": "Batsman",
     "rating": 92,
+    "price": 54550,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Right-arm offbreak",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316438.png"
+    "image": "https://i.ibb.co.com/yc4HwsSx/2025-07-25-T162623-Z-866326960-UP1-EL7-P19-NXBZ-RTRMADP-3-CRICKET-TEST-ENG-IND-1753470930.jpg"
   },
   {
     "playerName": "Kane Williamson",
     "playerCountry": "New Zealand",
     "playerType": "Batsman",
     "rating": 91,
+    "price": 55550,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Right-arm offbreak",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316470.png"
+    "image": "https://i.ibb.co.com/93p45FNg/1631101-255890295.jpg"
   },
   {
     "playerName": "Steve Smith",
     "playerCountry": "Australia",
     "playerType": "Batsman",
     "rating": 94,
+    "price": 1550,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Right-arm legbreak",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316474.png"
+    "image": "https://i.ibb.co.com/tpPJ6zjw/3b647260-f060-11ef-bd1b-d536627785f2-1.jpg"
   },
 
   {
@@ -59,9 +65,10 @@
     "playerCountry": "England",
     "playerType": "All-rounder",
     "rating": 89,
+    "price": 3550,
     "batStyle": "Left-hand bat",
     "blowingStyle": "Right-arm fast-medium",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316441.png"
+    "image": "https://i.ibb.co.com/tT9kbXLV/ben-Stokes.jpg"
   },
 
   {
@@ -69,27 +76,30 @@
     "playerCountry": "Bangladesh",
     "playerType": "Wicketkeeper-Batsman",
     "rating": 88,
+    "price": 5000,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Right-arm offbreak",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mushfiqur_Rahim.jpg"
+    "image": "https://i.ibb.co.com/cmqdMVp/mushfiqur-rahim-1572802253.jpg"
   },
   {
     "playerName": "Lasith Malinga",
     "playerCountry": "Sri Lanka",
     "playerType": "Bowler",
     "rating": 91,
+    "price": 5450,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Right-arm fast",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Lasith_Malinga_2016.jpg"
+    "image": "https://i.ibb.co.com/YTV483w9/malinga.jpg"
   },
   {
     "playerName": "Mahmudullah Riyad",
     "playerCountry": "Bangladesh",
     "playerType": "All-rounder",
     "rating": 87,
+    "price": 500,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Right-arm offbreak",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mahmudullah_Riyad.jpg"
+    "image": "https://i.ibb.co.com/39ns2cDM/Mahamudullia.jpg"
   },
 
   {
@@ -97,35 +107,39 @@
     "playerCountry": "India",
     "playerType": "All-rounder",
     "rating": 88,
+    "price": 1000,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Right-arm medium-fast",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319900/319952.png"
+    "image": "https://i.ibb.co.com/C3bTy6Q5/hardik-pandya-224459679-16x9.jpg"
   },
   {
     "playerName": "Jasprit Bumrah",
     "playerCountry": "India",
     "playerType": "Bowler",
     "rating": 92,
+    "price": 2000,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Right-arm fast",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319900/319951.png"
+    "image": "https://i.ibb.co.com/5h64nm5m/mimf3vas-jasprit-bumrah-625x300-16-March-26.webp"
   },
   {
     "playerName": "Mitchell Starc",
     "playerCountry": "Australia",
     "playerType": "Bowler",
     "rating": 91,
+    "price": 3000,
     "batStyle": "Left-hand bat",
     "blowingStyle": "Left-arm fast",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316476.png"
+    "image": "https://i.ibb.co.com/tp1WsnFX/Mitchell-Starc-16b9329c545-large.jpg"
   },
   {
     "playerName": "Trent Boult",
     "playerCountry": "New Zealand",
     "playerType": "Bowler",
     "rating": 90,
+    "price": 4000,
     "batStyle": "Right-hand bat",
     "blowingStyle": "Left-arm fast-medium",
-    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316469.png"
+    "image": "https://i.ibb.co.com/mjTnxWb/images-1.jpg"
   }
 ]

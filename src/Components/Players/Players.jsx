@@ -1,4 +1,5 @@
 import React, { use } from "react";
+import AvailablePlayers from "../AvailablePlayers/AvailablePlayers";
 
 const Players = ({ playersPromise }) => {
   //   console.log(playersPromise);
@@ -9,6 +10,7 @@ const Players = ({ playersPromise }) => {
       <h2 className="text-xl font-semibold mt-4">
         Available Players: {players.length}
       </h2>
+      <AvailablePlayers players={players}></AvailablePlayers>
     </div>
   );
 };
