@@ -62,7 +62,7 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <a className="btn">
+        <a className="btn btn-primary">
           0 Coin <img src={currencyCoin} alt={currencyCoin} />
         </a>
       </div>

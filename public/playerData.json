@@ -1,0 +1,131 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 90,
+    "batStyle": "Left-hand bat",
+    "blowingStyle": "Left-arm orthodox",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319900/319957.png"
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 95,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm medium",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316486.png"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 93,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm offbreak",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319900/319950.png"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 92,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm offbreak",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316438.png"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 91,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm offbreak",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316470.png"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 94,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm legbreak",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316474.png"
+  },
+
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-rounder",
+    "rating": 89,
+    "batStyle": "Left-hand bat",
+    "blowingStyle": "Right-arm fast-medium",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316441.png"
+  },
+
+  {
+    "playerName": "Mushfiqur Rahim",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 88,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm offbreak",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mushfiqur_Rahim.jpg"
+  },
+  {
+    "playerName": "Lasith Malinga",
+    "playerCountry": "Sri Lanka",
+    "playerType": "Bowler",
+    "rating": 91,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm fast",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Lasith_Malinga_2016.jpg"
+  },
+  {
+    "playerName": "Mahmudullah Riyad",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 87,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm offbreak",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mahmudullah_Riyad.jpg"
+  },
+
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-rounder",
+    "rating": 88,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm medium-fast",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319900/319952.png"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 92,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Right-arm fast",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319900/319951.png"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 91,
+    "batStyle": "Left-hand bat",
+    "blowingStyle": "Left-arm fast",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316476.png"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "rating": 90,
+    "batStyle": "Right-hand bat",
+    "blowingStyle": "Left-arm fast-medium",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316469.png"
+  }
+]
