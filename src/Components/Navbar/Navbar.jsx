@@ -2,7 +2,7 @@ import React from "react";
 import navbarLogo from "../../assets/logo.png";
 import currencyCoin from "../../assets/Currency.png";
 
-const Navbar = () => {
+const Navbar = ({ coin }) => {
   return (
     <div className="container mx-auto navbar bg-base-100 shadow-sm">
       <div className="navbar-start">
@@ -63,7 +63,7 @@ const Navbar = () => {
           </ul>
         </div>
         <a className="btn btn-primary">
-          0 Coin <img src={currencyCoin} alt={currencyCoin} />
+          {coin} Coin <img src={currencyCoin} alt={currencyCoin} />
         </a>
       </div>
     </div>
