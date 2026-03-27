@@ -4,10 +4,10 @@ import { FaFlag, FaUser } from "react-icons/fa";
 const AvailablePlayers = ({ players }) => {
   console.log(players);
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 ">
       {players.map((player) => {
         return (
-          <div className="card bg-base-100 w-96 shadow-lg mt-5  border-2">
+          <div className="card bg-base-100 w-96 mx-auto shadow-lg mt-5 border-2">
             <figure>
               <img src={player.image} alt={player.playerName} />
             </figure>
