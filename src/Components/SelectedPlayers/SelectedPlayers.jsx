@@ -1,9 +1,25 @@
 import React from "react";
+import SelectedPlayerCard from "../SelectedPlayerCard/SelectedPlayerCard";
 
-const SelectedPlayers = () => {
+const SelectedPlayers = ({
+  selectedPlayers,
+  setSelectedPlayers,
+  coin,
+  setCoin,
+}) => {
+  console.log(selectedPlayers);
   return (
     <div>
-      <h2>Selected Player</h2>
+      {selectedPlayers.map((player, index) => (
+        <SelectedPlayerCard
+          key={index}
+          player={player}
+          selectedPlayers={selectedPlayers}
+          setSelectedPlayers={setSelectedPlayers}
+          coin={coin}
+          setCoin={setCoin}
+        ></SelectedPlayerCard>
+      ))}
     </div>
   );
 };
