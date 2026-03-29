@@ -23,7 +23,7 @@ const PlayerCard = ({
     setSelectedPlayers([...selectedPlayers, player]);
   };
   return (
-    <div className="card bg-base-100 w-96 mx-auto shadow-lg mt-5 border-2">
+    <div className="card bg-base-100 w-96 lg:w-full mx-auto shadow-lg mt-5 border-2">
       <figure>
         <img src={player.image} alt={player.playerName} />
       </figure>
