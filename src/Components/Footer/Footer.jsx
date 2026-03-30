@@ -1,8 +1,14 @@
 import React from "react";
+import FooterImage from "../../assets/logo-footer.png";
 
 const Footer = () => {
   return (
     <div className="bg-base-200">
+      <img
+        className="w-[150px] mx-auto pt-8"
+        src={FooterImage}
+        alt="Footer image"
+      />
       <div className=" container mx-auto justify-center grid md:grid-cols-2 lg:grid-cols-3 gap-5 p-10 ">
         <div className="space-y-2">
           <h4 className="text-2xl">About</h4>
